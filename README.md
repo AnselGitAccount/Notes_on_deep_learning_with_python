@@ -1,6 +1,6 @@
 # Notes on Deep Learning With Python
 
-This repo contains **examples** from working through the book *Deep Learning with Python* by Francois Chollet. Note that I modified some code for TensorFlow V2 compatibility.
+This repo contains **examples** from working through the book *Deep Learning with Python* by Francois Chollet. Note that I modified some code due to TensorFlow V2 compatibility.
 
 The repo does not contain all of the source data for the notebooks to run, due to size limit. The steps to acquire the data are given in the book (or Francois's repo https://github.com/fchollet/deep-learning-with-python-notebooks).
 
